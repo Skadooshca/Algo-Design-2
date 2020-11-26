@@ -1,2 +1,2 @@
-# Algo-Design-2
-Created isTouching and bounceOff instructions. 
+# p5.play-boilerplate
+Boiler plate for p5.play
